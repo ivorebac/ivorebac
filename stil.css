@@ -1,0 +1,32 @@
+@charset "UTF-8";
+/* CSS Document */
+p {
+	color:teal;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 16px;
+	line-height: 18px;
+	width: 600px;
+	background-color: azure;
+	padding: 20px;
+	}
+h2 , h1 {font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	color:midnightblue;
+
+	}
+body {
+	background-image: url("Slike/ab7a84798706e102e982541bdd38fba2.jpg")
+	
+	}
+a { color: black;
+	background-color: antiquewhite;
+	padding: 5px;
+	line-height: 25px;
+	border: 1px #06132B;
+	
+	}
+
+img {
+	height: 200px;
+	}
+	
+	
